@@ -16,9 +16,9 @@ I am doing all CRUD operations required for this task which uses codejudge API a
 - DRY and SRP rules are followed.
 - Colors used are maintained in a separate file and referenced from there only.
 ## Steps to run
-(1) git clone https://github.com/chhikaradi21/LeadManagement.git
-(2) cd LeadManagement
-(3) npm i
-(4) npm start
-(5) Change codejudge endpoints for API response and it should work on port 3000
+ -  git clone https://github.com/chhikaradi21/LeadManagement.git
+ -  cd LeadManagement
+ -  npm i
+ -  npm start
+ -  Change codejudge endpoints for API response and it should work on port 3000
 
